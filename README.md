@@ -19,7 +19,7 @@ The following example shows how to easily build simple application using NPM mod
 
 #### Running the example
 
-The application requires Meteor.
+The application requires Meteor and [NodeJS](https://nodejs.org/en/download/).
 
 ```
 curl https://install.meteor.com/ | sh
@@ -30,6 +30,7 @@ After installing Meteor simply clone the repository and execute `meteor`.
 ```
 git clone https://github.com/schabluk/none.git
 cd none
+npm install
 meteor
 ```
 
