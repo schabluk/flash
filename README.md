@@ -17,6 +17,22 @@ The following example shows how to easily build simple application using NPM mod
  * [react-mounter](https://www.npmjs.com/package/react-mounter): lets you mount React components to DOM easily.
  * [react-komposer](https://www.npmjs.com/package/react-komposer): compose React containers and feed data into components.
 
+#### Running the example
+
+The application requires Meteor.
+
+```
+curl https://install.meteor.com/ | sh
+```
+
+After installing Meteor simply clone the repository and execute `meteor`.
+
+```
+git clone https://github.com/schabluk/none.git
+cd none
+meteor
+```
+
 #### Application Modules
 
 ##### Main (client/components/main.jsx)
