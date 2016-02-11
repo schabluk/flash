@@ -77,7 +77,7 @@ import Layout from './layouts/default.jsx'
 import Main from './components/main.jsx'
 
 FlowRouter.route("/", {
-  name: "home",
+  name: "main",
   action() {
     mount(Layout, {
       content: (<Main />)
