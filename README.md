@@ -4,7 +4,7 @@ This is a simple application build upon React, Meteor 1.3 (Beta preview with ES6
 
 What's the difference? The 1.3 release of Meteor is comming soon, and it will be the game changer. It comes with ES2015 modules support and direct access to NPM modules.
 
-The following example shows how to build simple application using NPM modules on both client and server.
+The following example shows how to easily build simple application using NPM modules on both client and server.
 
 ##### Used Meteor packages:
 
