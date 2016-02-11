@@ -1,6 +1,6 @@
 ### ES6 featured Boilerplate for Meteor/React application.
 
-#### This is a simple application build upon React, Meteor 1.3 (Beta preview with ES6 features) and Twitter Bootstrap 4.0.0 (Alpha preview).
+This is a simple application build upon React, Meteor 1.3 (Beta preview with ES6 features) and Twitter Bootstrap 4.0.0 (Alpha preview).
 
 ##### Used Meteor packages:
 
