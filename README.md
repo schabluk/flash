@@ -1,6 +1,6 @@
-## ES6 featured Boilerplate for Meteor/React application.
+### ES6 featured Boilerplate for Meteor/React application.
 
-### This is a simple application build upon React, Meteor 1.3 (Beta preview with ES6 features) and Twitter Bootstrap 4.0.0 (Alpha preview).
+#### This is a simple application build upon React, Meteor 1.3 (Beta preview with ES6 features) and Twitter Bootstrap 4.0.0 (Alpha preview).
 
 ##### Used Meteor packages:
 
@@ -8,11 +8,11 @@
  * [fontawesome](http://fortawesome.github.io/Font-Awesome/): scalable vector icons that can instantly be customized.
 
 ##### Used NPM packages
- * [react](https://www.npmjs.com/package/react): a JavaScript library for building user interfaces.
+ * [react](https://www.npmjs.com/package/react) and [react-dom](https://www.npmjs.com/package/react-dom): a JavaScript library for building user interfaces.
  * [react-mounter](https://www.npmjs.com/package/react-mounter): lets you mount React components to DOM easily.
  * [react-komposer](https://www.npmjs.com/package/react-komposer): compose React containers and feed data into components.
 
-### Application Modules
+#### Application Modules
 
 ##### Main (client/components/main.jsx)
 
