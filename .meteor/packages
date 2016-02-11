@@ -21,3 +21,5 @@ insecure                # Allow all DB writes from clients (for prototyping)
 kadira:flow-router      # Carefully Designed Client Side Router for Meteor
 
 twbs:bootstrap@=4.0.0-alpha.2 # The most popular front-end framework for developing responsive, mobile first projects on the web.
+
+fortawesome:fontawesome # Font Awesome (official): 500+ scalable vector icons, customizable via CSS, Retina friendly
