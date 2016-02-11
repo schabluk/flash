@@ -2,9 +2,14 @@
 
 This is a simple application build upon React, Meteor 1.3 (Beta preview with ES6 features) and Twitter Bootstrap 4.0.0 (Alpha preview).
 
+What's the difference? The 1.3 release of Meteor is comming soon, and it will be the game changer. It comes with ES2015 modules support and direct access to NPM modules.
+
+The following example shows how to build simple application using NPM modules on both client and server.
+
 ##### Used Meteor packages:
 
- * [flow-router](https://github.com/kadirahq/flow-router):  carefully designed client side router for Meteor.
+ * [flow-router](https://github.com/kadirahq/flow-router/): carefully designed client side router for Meteor.
+ * [bootstrap](http://v4-alpha.getbootstrap.com/): The most popular front-end framework for developing responsive, mobile first projects on the web.
  * [fontawesome](http://fortawesome.github.io/Font-Awesome/): scalable vector icons that can instantly be customized.
 
 ##### Used NPM packages
@@ -65,6 +70,7 @@ FlowRouter.route("/", {
 ```
 
 ##### Further reading
+
  * [Getting Started with Meteor 1.3 and React](https://voice.kadira.io/getting-started-with-meteor-1-3-and-react-15e071e41cd1#.36vwj67kc)
  * [Let’s Compose Some React Containers](https://voice.kadira.io/let-s-compose-some-react-containers-3b91b6d9b7c8#.h5pyitsbg)
  * [Using Meteor Data and React with Meteor 1.3](https://voice.kadira.io/using-meteor-data-and-react-with-meteor-1-3-13cb0935dedb#.ybo2s1z40)
