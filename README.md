@@ -9,7 +9,7 @@ The following example shows how to easily build simple application using NPM mod
 ##### Used Meteor packages:
 
  * [flow-router](https://github.com/kadirahq/flow-router/): carefully designed client side router for Meteor.
- * [bootstrap](http://v4-alpha.getbootstrap.com/): The most popular front-end framework for developing responsive, mobile first projects on the web.
+ * [bootstrap](http://v4-alpha.getbootstrap.com/): the most popular front-end framework for developing responsive, mobile first projects on the web.
  * [fontawesome](http://fortawesome.github.io/Font-Awesome/): scalable vector icons that can instantly be customized.
 
 ##### Used NPM packages
