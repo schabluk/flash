@@ -2,12 +2,22 @@
 -------------------------------------------------- */
 html {
   position: relative;
-  min-height: 100%;
+  min-height: 101%;
 }
+
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
 }
+
+a {
+  outline: 0 !important;
+}
+
+textarea {
+  resize: none !important;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
