@@ -1,4 +1,4 @@
-import Faker from 'Faker'
+import Faker from 'faker'
 
 People = new Meteor.Collection('people')
 
@@ -7,8 +7,8 @@ if(Meteor.isServer) {
   if(People.find().count() === 0) {
     _.range(10).map(function(index) {
       People.insert({
-        card: Faker.Helpers.userCard(),
-        avatar: Faker.Image.avatar()
+        card: Faker.helpers.userCard(),
+        avatar: Faker.image.avatar()
       })
     })
   }
