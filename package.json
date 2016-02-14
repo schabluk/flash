@@ -21,8 +21,13 @@
     "react-mounter": "^1.0.0"
   },
   "devDependencies": {
-    "enzyme": "^2.0.0",
+    "babel": "^6.3.26",
+    "babel-jest": "^6.0.1",
+    "babel-preset-airbnb": "^1.0.1",
+    "enzyme": "^2.0.0-rc1",
+    "jest": "^0.1.40",
     "jest-cli": "^0.8.2",
+    "react": "^0.14.7",
     "react-addons-test-utils": "^0.14.7"
   },
   "jest": {
