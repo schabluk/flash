@@ -2,7 +2,7 @@
   "name": "flash",
   "version": "1.0.0",
   "description": "ES6 featured Boilerplate for Meteor/React application",
-  "main": "flash.js"
+  "main": "flash.js",
   "scripts": {
     "test": "jest"
   },
