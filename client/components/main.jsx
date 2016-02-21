@@ -4,26 +4,26 @@ const Main = () => (
   <div className="row">
     <div className="col-sm-3">
       <a className="btn btn-info" href="https://forums.meteor.com/t/meteor-1-3-early-beta-now-available/14723" target="_blank" style={{width: '100%'}}>
-        <i className="fa fa-cube fa-flip-horizontal fa-2x pull-left"></i> Meteor<br />Version 1.3 (Beta)
+        <i className="fa fa-cube fa-flip-horizontal fa-2x pull-left"></i> Meteor<br /> 1.3 (Beta)
       </a>
       <hr/>
       <a className="btn btn-info" href="https://facebook.github.io/react/" target="_blank" style={{width: '100%'}}>
-        <i className="fa fa fa-code fa-flip-horizontal fa-2x pull-left"></i> React<br />Version 0.14.7
+        <i className="fa fa fa-code fa-flip-horizontal fa-2x pull-left"></i> React<br /> 0.14.7
       </a>
       <hr/>
       <a className="btn btn-info" href="http://v4-alpha.getbootstrap.com/" target="_blank" style={{width: '100%'}}>
-        <i className="fa fa-twitter fa-flip-horizontal fa-2x pull-left"></i> Twitter Bootstrap<br />Version 4 (Alpha)
+        <i className="fa fa-twitter fa-flip-horizontal fa-2x pull-left"></i> Twitter Bootstrap<br /> 4.0.0 (Alpha)
       </a>
       <hr/>
       <a className="btn btn-info" href="http://fortawesome.github.io/Font-Awesome/" target="_blank" style={{width: '100%'}}>
-        <i className="fa fa-flag fa-flip-horizontal fa-2x pull-left"></i> Font Awesome<br />Version 4.5.0
+        <i className="fa fa-flag fa-flip-horizontal fa-2x pull-left"></i> Font Awesome<br /> 4.5.0
       </a>
     </div>
     <div className="col-sm-9">
       <div className="card">
         <h4 className="card-header">ES6 featured Boilerplate for Meteor/React application.</h4>
         <div className="card-block">
-          <h5 className="card-text">This is a simple application build upon React, Meteor 1.3 (Beta preview with ES6 features) and Twitter Bootstrap 4.0.0 (Alpha preview).</h5>
+          <span className="card-text">This is a simple application build upon React, Meteor 1.3 (Beta preview with ES6 features) and Twitter Bootstrap 4.0.0 (Alpha preview).</span>
         </div>
         <div className="card-block">
           <div className="row">

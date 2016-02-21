@@ -7,7 +7,7 @@ html {
 
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 100px;
+  margin-bottom: 60px;
 }
 
 a {
@@ -34,7 +34,7 @@ textarea {
 /* Not required for template or sticky footer method. */
 
 body > div > div > .container {
-  padding: 100px 15px 0;
+  padding: 60px 15px 0;
 }
 
 .footer > .container {
